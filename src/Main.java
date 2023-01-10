@@ -83,6 +83,7 @@ public class Main {
         for (int i = 2; i <= 20; i = i + 2) {
             x = x + 1;
             System.out.println("2 * "+ x + " = " + i);
+
         }
     }
 }
